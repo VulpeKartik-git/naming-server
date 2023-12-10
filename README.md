@@ -41,3 +41,9 @@ API Gateway: Access the entire system efficiently through the API Gateway, manag
 Distributed Tracing: Leverage Zipkin to trace requests across microservices, gaining insights into the entire request flow for efficient monitoring and optimization.
 
 Explore the power of Spring Boot and microservices hosted on Netflix Eureka with this Currency Conversion System, providing flexibility, scalability, and fault tolerance for your currency-related operations.
+
+To use: To use this microservice projct clown the below four repositories and run it on your IDE.
+1.api-gateway
+2.naming-server
+3.currency-exchange-service
+4.currency-conversion-service
